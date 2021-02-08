@@ -3,7 +3,7 @@
 install
 
 ```
-cargo install --git git@github.com/svanderbleek/repldoctest
+cargo install --git https://github.com/svanderbleek/repldoctest.git
 ```
 
 take a function name and a repl interaction of examples
