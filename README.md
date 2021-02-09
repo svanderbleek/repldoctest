@@ -36,3 +36,4 @@ output a haskell doctest for that function using the examples
 ## todo
 
 - [ ] change hardcoded replace to regex
+- [ ] handle linewrap
