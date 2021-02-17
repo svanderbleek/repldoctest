@@ -6,10 +6,10 @@ install
 cargo install --git https://github.com/svanderbleek/repldoctest.git
 ```
 
-take a function name and a repl interaction of examples
+take a function name a substring to replace and a repl interaction of examples
 
 ```
-$ repldoctest minCost '*Assignment05> minCost (TheInt 3) (TheInt 4)
+$ repldoctest minCost '*Assignment05>' '*Assignment05> minCost (TheInt 3) (TheInt 4)
 TheInt 3
 *Assignment05> minCost (TheInt 3) Inf
 TheInt 3
